@@ -1,0 +1,13 @@
+/* src/index.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  /* background-image: url('/background.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff; /* Ensure text is readable on dark background */
+}

@@ -1,0 +1,87 @@
+2024-09-24 09:38:30,317 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:52:45,395 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:54:46,328 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:09,821 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:12,818 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:15,963 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:35,240 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:42,281 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:47,450 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:50,703 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:55:54,968 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 09:56:01,969 [INFO] User user@example.com requested a prediction.
+2024-09-24 09:56:01,980 [INFO] Prediction result: Failure
+2024-09-24 09:56:16,632 [INFO] User user@example.com requested a prediction.
+2024-09-24 09:56:16,644 [INFO] Prediction result: Failure
+2024-09-24 09:57:20,141 [INFO] User user@example.com requested a prediction.
+2024-09-24 09:57:20,154 [INFO] Prediction result: Failure
+2024-09-24 09:57:32,794 [INFO] User user@example.com requested a prediction.
+2024-09-24 09:57:32,805 [INFO] Prediction result: Failure
+2024-09-24 09:58:02,646 [INFO] User user@example.com requested a prediction.
+2024-09-24 09:58:02,658 [INFO] Prediction result: Failure
+2024-09-24 09:59:45,169 [INFO] User user@example.com requested a prediction.
+2024-09-24 09:59:45,180 [INFO] Prediction result: No Failure
+2024-09-24 10:00:24,157 [INFO] User user@example.com requested a prediction.
+2024-09-24 10:00:24,165 [INFO] Prediction result: No Failure
+2024-09-24 10:05:29,500 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-09-24 10:07:25,712 [INFO] User user@example.com requested a prediction.
+2024-09-24 10:07:25,721 [INFO] Prediction result: No Failure
+2024-09-24 10:07:44,771 [INFO] User user@example.com requested a prediction.
+2024-09-24 10:07:44,780 [INFO] Prediction result: Failure
+2024-09-24 10:08:12,464 [INFO] User user@example.com requested a prediction.
+2024-09-24 10:08:12,473 [INFO] Prediction result: Failure
+2024-09-24 10:08:29,206 [INFO] User user@example.com requested a prediction.
+2024-09-24 10:08:29,214 [INFO] Prediction result: No Failure
+2024-09-24 13:51:28,271 [WARNING] (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/fsilveira/predictive_maintenance_project/venv/lib/python3.10/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
